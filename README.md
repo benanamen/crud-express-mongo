@@ -1,3 +1,4 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/benanamen/crud-express-mongo/badge.svg)](https://snyk.io/test/github/benanamen/crud-express-mongo)
 # Repo for Zell's CRUD, Express and MongoDB tutorial
 
 - [Demo](https://crud-express-mongo.herokuapp.com)
